@@ -34,8 +34,8 @@ TODO: Add long description of the pod here.
 
   #s.public_header_files = 'Example/GTSpec/Classes/Defines/*.h'  #公开头文件地址
   s.prefix_header_file =  'Example/GTSpec/GTSpec-Prefix.pch'
-  s.source_files = 'Example/GTSpec/Classes/**/*','Example/GTSpec/Resources/*.xcassets'
-
+  s.source_files = 'Example/GTSpec/Classes/**/*'
+  s.resources = 'Example/GTSpec/Resources/*.xcassets'
 
 
   #s.resource_bundles = {
