@@ -39,7 +39,7 @@ TODO: Add long description of the pod here.
 
 
   s.resource_bundles = {
-    'GTSpec' => ['Example/GTSpec/Images.xcassets/**/*.png']
+     'GTSpec' => ['Example/GTSpec/Images.xcassets/**/*.png']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
